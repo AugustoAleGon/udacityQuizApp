@@ -1,0 +1,66 @@
+<resources>
+    <!-- Name of the application [CHAR LIMIT = 20] -->
+    <string name="app_name">Quiz App</string>
+
+    <!-- Question of the quiz app number 1 [CHAR LIMIT = NONE] -->
+    <string name="question_1">The center of the Earth is very hot?</string>
+
+    <!-- Question of the quiz app number 2 [CHAR LIMIT = NONE] -->
+    <string name="question_2">At the beginning of the earth there was a super continent, that was called?</string>
+
+    <!-- Question of the quiz app number 3 [CHAR LIMIT = NONE] -->
+    <string name="question_3">Does the Earth go around the Sun?</string>
+
+    <!-- Answer option 1 of the 3 question [CHAR LIMIT = 20] -->
+    <string name="radio_true">True</string>
+
+    <!-- Answer option 2 of the 3 question [CHAR LIMIT = 20] -->
+    <string name="radio_false">False</string>
+
+    <!-- Question of the quiz app number 4 [CHAR LIMIT = NONE] -->
+    <string name="question_4">Regarding to the last question. How long does it take?</string>
+
+    <!-- Answer option 1 of the 4 question [CHAR LIMIT = 20] -->
+    <string name="radio_op1">370 days</string>
+
+    <!-- Answer option 2 of the 4 question [CHAR LIMIT = 20] -->
+    <string name="radio_op2">1 hour</string>
+
+    <!-- Answer option 3 of the 4 question [CHAR LIMIT = 20] -->
+    <string name="radio_op3">1 year</string>
+
+    <!-- Question of the quiz app number 5 [CHAR LIMIT = NONE] -->
+    <string name="question_5">This planet is:</string>
+
+    <!-- Description of the planet of Non vision users -->
+    <string name="mars_description">It\'s a red planet</string>
+
+    <!-- Name of the planet [CHAR LIMIT = NONE] -->
+    <string name="answer_question_5">mars</string>
+
+    <!-- Label of the button that display the score -->
+    <string name="score">Score</string>
+
+    <!-- Label of the button that share the score with your friends -->
+    <string name="share">Share</string>
+    
+    <!-- Score 0/5 toast message that will display on the user screen-->
+    <string name="score_0_toast">Your score is 0/5. Need some reading.</string>
+
+    <!-- Score 1/5 toast message that will display on the user screen-->
+    <string name="score_1_toast">Your score is 1/5. You got just one.</string>
+
+    <!-- Score 2/5 toast message that will display on the user screen-->
+    <string name="score_2_toast">Your score is 2/5. Almost the half.</string>
+
+    <!-- Score 3/5 toast message that will display on the user screen-->
+    <string name="score_3_toast">Your score is 3/5. You have passed.</string>
+
+    <!-- Score 4/5 toast message that will display on the user screen-->
+    <string name="score_4_toast">Your score is 4/5. You are on fire!</string>
+
+    <!-- Score 5/5 toast message that will display on the user screen-->
+    <string name="score_5_toast">Your score is 5/5. Perfect score!</string>
+
+    
+</resources>

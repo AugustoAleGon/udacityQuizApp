@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Quiz App</string>
+    <string name="mars_description">Es un planeta rojo</string>
+    <string name="question_1">El centro de la tierra es muy caliente?</string>
+    <string name="question_2">Al inicio de la Tierra, había un super continente, llamado?</string>
+    <string name="question_3">La Tierra gira alrededor del sol?</string>
+    <string name="question_4">Con respecto a la pregunta anterior. Cuanto tiempo tarda?</string>
+    <string name="question_5">Este planeta es?</string>
+    <string name="radio_false">Falso</string>
+    <string name="radio_op1">370 días</string>
+    <string name="radio_op2">1 hora</string>
+    <string name="radio_op3">1 año</string>
+    <string name="share">Comparte</string>
+    <string name="radio_true">Verdadero</string>
+    <string name="score">Resultado</string>
+    <string name="answer_question_5">marte</string>
+    <string name="score_0_toast">Tu resultado es 0/5. Necesitas algo de lectura.</string>
+    <string name="score_1_toast">Tu resultado es 1/5. Acertaste solo una.</string>
+    <string name="score_2_toast">Tu resultado es 2/5. Casi la mitad.</string>
+    <string name="score_3_toast">Tu resultado es 3/5. Has pasado.</string>
+    <string name="score_4_toast">Tu resultado es 4/5. Estas que arde!</string>
+    <string name="score_5_toast">Tu resultado es 5/5. Resultado perfecto!</string>
+</resources>

@@ -1,0 +1,33 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">#673AB7</item>
+        <item name="colorPrimaryDark">#512DA8</item>
+        <item name="colorAccent">#009688</item>
+        <item name="android:windowFullscreen">true</item>
+    </style>
+    
+    <style name="MarginFormat">
+        <item name="android:layout_marginTop">16dp</item>
+    </style>
+
+    <style name="CheckboxStyle" parent="MarginFormat">
+        <item name="android:paddingLeft">24dp</item>
+        <item name="android:textSize">16sp</item>
+    </style>
+
+    <style name="TextSize">
+        <item name="android:textSize">16sp</item>
+    </style>
+
+    <style name="TextFormat" parent="TextSize">
+        <item name="android:layout_marginTop">16dp</item>
+        <item name="android:textColor">#000</item>
+    </style>
+
+    <style name="RadioButtonStyle">
+        <item name="android:paddingLeft">10dp</item>
+    </style>
+</resources>
